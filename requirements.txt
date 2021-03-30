@@ -61,6 +61,6 @@ prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 psycopg2==2.8.5
 pygame==1.9.6
-Pygments==2.6.1
+Pygments==2.7.4
 PyInstaller==3.6
 tk==0.1.0
